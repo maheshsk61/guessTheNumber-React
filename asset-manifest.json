@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/guessTheNumber-React/static/css/main.b09b760d.css",
+    "main.js": "/guessTheNumber-React/static/js/main.d16a4e87.js",
+    "index.html": "/guessTheNumber-React/index.html",
+    "main.b09b760d.css.map": "/guessTheNumber-React/static/css/main.b09b760d.css.map",
+    "main.d16a4e87.js.map": "/guessTheNumber-React/static/js/main.d16a4e87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b09b760d.css",
+    "static/js/main.d16a4e87.js"
+  ]
+}
